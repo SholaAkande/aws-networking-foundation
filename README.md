@@ -55,7 +55,7 @@ The private instance has no public IP — there is no direct path from the inter
 The moment that landed hardest: SSHing into the public server, then hopping into the private server using only its private IP. Seeing that the private instance was genuinely unreachable from the internet but accessible from inside the VPC made the whole subnet isolation concept real.
 
 **Mistakes I made and fixed**  
-*(fill this in — even small things count)*
+
 
 ## Troubleshooting Log
 
